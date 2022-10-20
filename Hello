@@ -1,0 +1,7 @@
+public class HelloCSE
+{
+public static void main(String[] args)
+{
+System.out.prontln("Hello CSE_B");
+}
+}
